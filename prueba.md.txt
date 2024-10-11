@@ -1,0 +1,24 @@
+<!doctype html>
+<HTML>
+<HEAD>
+     <TITLE>AUDIO Y VIDEO UPDS</TITLE>
+</HEAD>
+ <style>
+        body {
+            
+            background-color: #e6f7ff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #333;
+        }
+  </style>
+<body>
+<center> <b><h2> video</b></h2>
+<embed src="capibara.mp4" width="500" heith="500">
+<br><b><h2> audio</b></h2>
+
+<embed src="Baila capybara.mp3" controls autoplay muted><br><b><h2> gif</b></h2>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGttYjdjbjM3aW8wN2g2ZzN0NGxtNHh0OWhmd2RzN2tkd2tyd256ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5QXWRp1CNGnMnZunC3/giphy.webp" width="500" heith="500">
+</center>
+</body>
+</HTML>
